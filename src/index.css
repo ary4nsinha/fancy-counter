@@ -30,7 +30,7 @@ main {
 }
 
 .card {
-  background-color: #bef227;
+  background-color: #898989;
   width: 476px;
   height: 615px;
   border-radius: 12px;
@@ -76,13 +76,13 @@ main {
 }
 
 .reset-btn-icon {
-  color: #1d2507;
-  height: 40px;
-  width: 40px;
+  color: #000000;
+  height: 50px;
+  width: 50px;
 }
 
 .button-container {
-  background-color: #1d2507;
+  background-color: #222320;
   height: 116px;
   width: 100%;
   margin-top: auto;
@@ -106,7 +106,7 @@ main {
 
 .count-btn:hover,
 .count-btn:focus {
-  background-color: #212b06;
+  background-color: #000000;
 }
 
 .count-btn--plus {
@@ -114,7 +114,7 @@ main {
 }
 
 .count-btn-icon {
-  color: #bdfe00;
+  color: #ffffff;
   opacity: 0.9;
   height: 40px;
   width: 40px;

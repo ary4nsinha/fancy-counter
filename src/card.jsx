@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import Count from "./Count";
 import ButtonContainer from "./buttonContainer";
 import CountButton from "./countButton";
-import ResetButton from "./ResetButton";
+import ResetButton from "./resetBtn";
 import Title from "./Title";
 
 export default function Card() {
